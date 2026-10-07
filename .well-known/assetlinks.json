@@ -5,4 +5,12 @@
         "package_name": "io.github.mergio6.twa",
         "sha256_cert_fingerprints": ["A4:23:C4:3D:2A:B4:29:70:28:B8:A5:3B:8E:48:6C:EB:D0:10:F1:B5:1B:0E:85:AB:0A:97:8E:76:87:11:66:E3"]
       }
+    },
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mergio6.sintonizzati",
+        "sha256_cert_fingerprints": ["19:06:4B:29:93:1D:59:03:36:75:A8:67:8F:87:D2:32:FD:B7:D9:1B:3B:F0:15:1C:7D:F3:5F:38:B7:CC:FA:B8"]
+      }
     }]
